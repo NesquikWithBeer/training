@@ -1,4 +1,6 @@
-﻿namespace TaskOne
+﻿using System.Drawing;
+
+namespace TaskOne
 {
     class Program
     {
@@ -10,15 +12,25 @@
 
         public void StartApplication()
         {
-            getTriangle();
+            //getTriangle();
+            GetRectangle();
         }
 
         public void getTriangle()
         {
             Triangle triangle = new Triangle();
-            triangle.ShowTriangle1();
+            //triangle.ShowTriangle();
+            //triangle.ShowAnotherTriangle();
+            triangle.ShowMasTreeTriangle();
 
 
+        }
+
+        public void GetRectangle()
+        {
+            Rectangle rectangle = new Rectangle();
+            //rectangle.GetMessage();
+            rectangle.GetArea();
         }
     }
 }

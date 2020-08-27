@@ -1,0 +1,13 @@
+C:\Users\pavel_gordeev\source\repos\training\TaskOne\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.exe
+C:\Users\pavel_gordeev\source\repos\training\TaskOne\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.deps.json
+C:\Users\pavel_gordeev\source\repos\training\TaskOne\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.runtimeconfig.json
+C:\Users\pavel_gordeev\source\repos\training\TaskOne\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.runtimeconfig.dev.json
+C:\Users\pavel_gordeev\source\repos\training\TaskOne\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.dll
+C:\Users\pavel_gordeev\source\repos\training\TaskOne\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.pdb
+C:\Users\pavel_gordeev\source\repos\training\TaskOne\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.csprojAssemblyReference.cache
+C:\Users\pavel_gordeev\source\repos\training\TaskOne\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.AssemblyInfoInputs.cache
+C:\Users\pavel_gordeev\source\repos\training\TaskOne\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.AssemblyInfo.cs
+C:\Users\pavel_gordeev\source\repos\training\TaskOne\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.csproj.CoreCompileInputs.cache
+C:\Users\pavel_gordeev\source\repos\training\TaskOne\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.dll
+C:\Users\pavel_gordeev\source\repos\training\TaskOne\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.pdb
+C:\Users\pavel_gordeev\source\repos\training\TaskOne\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.genruntimeconfig.cache

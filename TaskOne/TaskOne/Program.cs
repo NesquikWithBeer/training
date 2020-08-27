@@ -1,12 +1,24 @@
-﻿using System;
-
-namespace TaskOne
+﻿namespace TaskOne
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Program app = new Program();
+            app.StartApplication();
+        }
+
+        public void StartApplication()
+        {
+            getTriangle();
+        }
+
+        public void getTriangle()
+        {
+            Triangle triangle = new Triangle();
+            triangle.ShowTriangle1();
+
+
         }
     }
 }
